@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>LWL</title>
+  
+  <subtitle>lin wanlideweibo</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://lin18758561487.github.io/"/>
+  <updated>2020-04-10T08:00:50.333Z</updated>
+  <id>https://lin18758561487.github.io/</id>
+  
+  <author>
+    <name>lin wanli</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>lwl</title>
+    <link href="https://lin18758561487.github.io/2020/04/10/lwl/"/>
+    <id>https://lin18758561487.github.io/2020/04/10/lwl/</id>
+    <published>2020-04-10T08:00:50.000Z</published>
+    <updated>2020-04-10T08:00:50.333Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>万里的小博客</title>
+    <link href="https://lin18758561487.github.io/2020/04/10/wan-li-de-xiao-bo-ke/"/>
+    <id>https://lin18758561487.github.io/2020/04/10/wan-li-de-xiao-bo-ke/</id>
+    <published>2020-04-10T08:00:09.000Z</published>
+    <updated>2020-04-10T08:00:09.926Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://lin18758561487.github.io/2020/04/10/hello-world/"/>
+    <id>https://lin18758561487.github.io/2020/04/10/hello-world/</id>
+    <published>2020-04-10T06:42:50.439Z</published>
+    <updated>2020-04-10T06:42:50.439Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
